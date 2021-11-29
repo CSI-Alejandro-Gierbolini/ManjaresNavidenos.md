@@ -1,10 +1,10 @@
-<hi> HTML Webpage Recipe </h1›
+<h1> HTML Webpage Recipe </h1>
 <h2> Christmas Recipe: </h2>
 
 <img    src="https://www.laylita.com/recetas/wp-content/uploads/2018/09/1-Receta-del-tres-leches.jpg"
-        title= "Tres Leches'
+        title= "Tres Leches"
         width= "20%"     
-        height= "20%"
+        height= "20%" />
         
 <h3> Ingredients: </h3>
 
