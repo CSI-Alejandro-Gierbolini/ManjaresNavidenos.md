@@ -32,12 +32,17 @@
         width= "20%"     
         height= "20%" /> 
         
-    <li>2/3 cup cocoa powder</li>
+- Cocoa Powder
+        
+ <img    src="https://assets.epicurious.com/photos/601d8fde72e2daa09e0b1a96/5:4/w_3457,h_2765,c_limit/CocoaPowder_HERO_020421_8213_VOG_final.jpg"
+          title= "Cocoa Powder"
+        width= "20%"     
+        height= "20%" /> 
 
 </ul>
 
 
-<h3> steps: </h3>
+<h3> Steps: </h3>
 
 <ol>
   <li>Preheat your oven to 350 degrees.</li>
