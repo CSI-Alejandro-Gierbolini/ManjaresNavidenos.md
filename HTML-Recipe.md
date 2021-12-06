@@ -10,6 +10,7 @@
 
 <u1>
     <li>2 sticks melted butter</li>
+<img    src="https://kitchenseer.com/wp-content/uploads/2021/04/melted-butter-on-a-bowl.png"
     <li>2 cups granulated sugar</li>
     <li>4 eggs</li>
     <li>1 cup flour</li>
