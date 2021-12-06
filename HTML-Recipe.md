@@ -1,5 +1,5 @@
-<h1> Christmas Cooking </h1>
-<h2> Christmas Cookie Recipe </h2>
+# Manjares Navidenos
+## Christmas Cookies
 
 <img    src="https://celebratingsweets.com/wp-content/uploads/2020/11/Christmas-Cookies-1-2.jpg"
         title= "Christmas Cookie"
@@ -10,10 +10,28 @@
 
 <u1>
     <li>2 sticks melted butter</li>
+        
 <img    src="https://kitchenseer.com/wp-content/uploads/2021/04/melted-butter-on-a-bowl.png"
+         title= "Christmas Cookie"
+        width= "20%"     
+        height= "20%" /> 
     <li>2 cups granulated sugar</li>
+<img    src="https://m.economictimes.com/thumb/msid-66238484,width-1200,height-900,resizemode-4,imgsize-522603/sugar-1200.jpg"
+         title= "Christmas Cookie"
+        width= "20%"     
+        height= "20%" /> 
     <li>4 eggs</li>
+        <img    src="https://www.mashed.com/img/gallery/heres-what-those-numbers-on-your-egg-carton-really-mean-upgrade/intro-1575998302.jpg"
+         title= "Christmas Cookie"
+        width= "20%"     
+        height= "20%" />  
     <li>1 cup flour</li>
+           
+ <img    src="https://www.melskitchencafe.com/wp-content/uploads/2011/01/Cup-Flour-e1366686965997.jpg"
+         title= "Christmas Cookie"
+        width= "20%"     
+        height= "20%" /> 
+        
     <li>2/3 cup cocoa powder</li>
 
 </ul>
