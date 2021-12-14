@@ -47,7 +47,7 @@
 <ol>
   <li>Preheat your oven to 350 degrees.</li>
   <li>Line a 9x9 baking dish with parchment paper.</li>
-  <li>Stir together the melted butter and sugar</li>
+  <li>Stir together melted butter and sugar</li>
   <li>Add the flour and cocoa powder, and stir until you have a smooth chocolate batter!</li>
   <li>Pour the batter into your baking dish and bake for 35-40 minutes. </li>
   <li>Store brownies in an airtight container at room temp for up to 5 days, or in the fridge for about a week.</li>
